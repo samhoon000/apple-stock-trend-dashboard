@@ -84,12 +84,6 @@ Historical Apple stock dataset containing:
 
 ---
 
-## 📸 Dashboard Preview
-
-(Add screenshots here)
-
----
-
 ## 🔗 Portfolio Value
 
 This project demonstrates my ability to convert raw financial data into actionable insights through professional dashboards — useful for **Data Analyst**, **Business Intelligence**, and **Reporting Analyst** roles.
